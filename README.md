@@ -19,7 +19,7 @@ Github проекта по ВАРКТу "Луноход-1" команды "space
 
 # Установка и настройка
 ## KSP
-Для начала установите сам KSP по ссылке (https://disk.yandex.ru/d/RQ-4Q9qc5NmKaA)
+Для начала установите сам KSP по ссылке [ksp.zip](https://disk.yandex.ru/d/RQ-4Q9qc5NmKaA)
 
 ## Python
 Всего нужно установить две библиотеки: kRPC и Matplotlib.
